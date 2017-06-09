@@ -1,0 +1,4 @@
+From Yujia ZHANG:
+This is a test file.
+It contains 4 lines.
+This is the last line.
